@@ -1,5 +1,8 @@
 # Application Specific
 *.npz
+*.csv
+*.pt
+*.DS_Store
 
 
 # Byte-compiled / optimized / DLL files
