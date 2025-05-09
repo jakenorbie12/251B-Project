@@ -3,6 +3,7 @@
 *.csv
 *.pt
 *.DS_Store
+Project_Milestone/grid_search_results/
 
 
 # Byte-compiled / optimized / DLL files
